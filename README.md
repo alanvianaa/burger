@@ -18,3 +18,4 @@ expo start
 ## Como ficou
 
 <img src="https://github.com/alanvianaa/burger/blob/main/print.jpeg" width="400">
+<img src="https://github.com/alanvianaa/burger/blob/main/print2.jpeg" width="400">
